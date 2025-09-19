@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Files9\bin\Debug\net8.0\Files9.exe
+C:\Users\ET73\Downloads\projetos-c#\Files9\bin\Debug\net8.0\Files9.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Files9\bin\Debug\net8.0\Files9.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Files9\bin\Debug\net8.0\Files9.dll
+C:\Users\ET73\Downloads\projetos-c#\Files9\bin\Debug\net8.0\Files9.pdb
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.dll
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\refint\Files9.dll
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.pdb
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\Files9.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Files9\obj\Debug\net8.0\ref\Files9.dll
